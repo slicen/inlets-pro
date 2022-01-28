@@ -24,6 +24,16 @@ entries:
   inlets-pro:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-01-29T00:17:30.211384277+11:00"
+    description: Helm chart for an inlets-pro TCP server
+    digest: 705415217b3451ad942a823169d71df0ebf6d72cd71ede5ec75a497b91bc0fbf
+    name: inlets-pro
+    type: application
+    urls:
+    - https://slicen.github.io/inlets-pro/charts/inlets-pro-0.4.0.tgz
+    version: 0.4.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2021-10-24T14:03:35.286713767+01:00"
     description: Helm chart for an inlets-pro TCP server
     digest: 108eaf1e75fa15ba60316867c6bdc645f177dbe305bf320382b49fa0e40222db
@@ -63,4 +73,4 @@ entries:
     urls:
     - https://inlets.github.io/inlets-pro/charts/inlets-pro-client-0.2.1.tgz
     version: 0.2.1
-generated: "2021-10-24T14:03:35.284504413+01:00"
+generated: "2022-01-29T00:17:30.211436575+11:00"
